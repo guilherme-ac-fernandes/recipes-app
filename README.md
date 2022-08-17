@@ -18,6 +18,7 @@ npm start // para iniciar a aplicação
 
 ```
 npm test
+ou
 npm run test-coverage
 ```
 
