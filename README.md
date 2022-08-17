@@ -4,6 +4,7 @@
 Aplicação web construída contendo informações de receitas e bebidas, aonde é possível visualizar, buscar, filtrar, favoritar e acompanhar seu progresso.
 
 * Construída utilizado React, Context API, Hooks e CSS3.
+* Essa aplicação foi desenvolvida para a resolução de tela de `360 x 640`.
 
 ### Instruções
 
