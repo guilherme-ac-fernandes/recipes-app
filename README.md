@@ -23,7 +23,7 @@ ou
 npm run test-coverage
 ```
 
-### Demostração
+### Demonstração
 
 👨🏻‍💻 **Acessar:** _[Clique Aqui](https://recipes-app-pied.vercel.app)_
 
