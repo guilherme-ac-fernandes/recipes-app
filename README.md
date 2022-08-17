@@ -23,8 +23,8 @@ npm run test-coverage
 
 ### Demostração
 
-👨🏻‍💻 **Acessar:** _[Clique Aqui]()_
+👨🏻‍💻 **Acessar:** _[Clique Aqui](https://recipes-app-pied.vercel.app)_
 
-<p align="center">
-  <img src="" alt="Recipe App Image"/>
-</p>
+<div style="display: flex; align=center" >
+  <img src="https://github.com/guilherme-ac-fernandes/recipes-app/blob/main/recipes-app-1.png" alt="Recipe App Image"/><img src="https://github.com/guilherme-ac-fernandes/recipes-app/blob/main/recipes-app-2.png" alt="Recipe App Image"/>
+</div>
