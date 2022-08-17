@@ -25,6 +25,7 @@ npm run test-coverage
 
 👨🏻‍💻 **Acessar:** _[Clique Aqui](https://recipes-app-pied.vercel.app)_
 
-<div style="display: flex; align=center" >
-  <img src="https://github.com/guilherme-ac-fernandes/recipes-app/blob/main/recipes-app-1.png" alt="Recipe App Image"/><img src="https://github.com/guilherme-ac-fernandes/recipes-app/blob/main/recipes-app-2.png" alt="Recipe App Image"/>
+<div align="center" >
+  <img src="https://github.com/guilherme-ac-fernandes/recipes-app/blob/main/recipes-app-1.png" alt="Recipe App Image"/>
+  <img src="https://github.com/guilherme-ac-fernandes/recipes-app/blob/main/recipes-app-2.png" alt="Recipe App Image"/>
 </div>
