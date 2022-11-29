@@ -1,4 +1,4 @@
-# Recipes App 🍸🥙
+# Projeto App de Receitas 🍸🥙
 
 
 Aplicação web construída contendo informações de receitas e bebidas, em que é possível visualizar, buscar, filtrar, favoritar e acompanhar seu progresso.
